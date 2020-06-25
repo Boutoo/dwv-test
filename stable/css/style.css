@@ -1,3 +1,14 @@
+/* UI Dark Colors:
+1 smoke: #eeeeee
+2 blue: #115173
+3 darker blue: #053f5e
+4 dark gray: #393e46
+5 darker gray: #222831
+Text: rgba(216, 236, 252, 0.75)
+      rgba(216, 236, 252, 0.5)
+      gray
+*/
+
 html, body { height: 100%; }
 
 body { margin: 10px; padding: 0; }
@@ -17,7 +28,7 @@ body { margin: 10px; padding: 0; }
 }
 
 #main{
-    background-color: #000;
+    background-color: #222831;
 }
 
 .ui-grid-b{ background-color: #000; }
